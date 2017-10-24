@@ -1,0 +1,4 @@
+server:
+  port: ${PORT:8000}
+
+message:a message from Microservice reservation service
